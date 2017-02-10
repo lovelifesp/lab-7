@@ -1,0 +1,17 @@
+body {
+font-family: 'Josefin Sans', sans-serif;
+background-image: url("http://www.designlovefest.com/wp-content/uploads/downloads/2016/11/Cardelucci-Passion-Fruit.jpg");
+background-repeat:no-repeat;
+background-position: center;
+background-attachment: fixed;
+background-size:cover;
+
+}
+ div{
+  background-color:rgba(233, 245, 238, 0.7);
+  padding:50px;
+  border:6px double black;
+  margin:100px;
+  width:5;
+  text-align: center;
+ }
